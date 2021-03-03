@@ -1,2 +1,3 @@
 # typing-app
-簡単なタイピングゲーム
+簡単なタイピングゲームです。
+html&cssとJavascriptのみでできています
