@@ -1,0 +1,25 @@
+body{
+    padding-top: 50px;
+    text-align: center;
+}
+
+#target{
+    font-size: 48px;
+    letter-spacing: 5px;
+}
+
+#result{
+    font-size: 30px;
+    color: red;
+}
+
+#sub-result{
+    font-size: 30px;
+    color: blue;
+}
+
+#button{
+    font-size: 30px;
+    background-color: skyblue;
+    border-radius: 10px;
+}
